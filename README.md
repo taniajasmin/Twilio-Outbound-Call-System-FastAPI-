@@ -45,7 +45,8 @@ pip install -r requirements.txt
 TWILIO_ACCOUNT_SID=ACxxxxxxxxxxxxxxxxxxxx
 TWILIO_AUTH_TOKEN=your_auth_token
 TWILIO_PHONE_NUMBER=+1XXXXXXXXXX
-BASE_URL=https://xxxx.ngrok-free.dev
+BASE_URL=[https://xxxx.ngrok-free.dev](https://pluckiest-trimorphous-ivana.ngrok-free.dev
+)
 ```
 3. Run server:
 ```txt
