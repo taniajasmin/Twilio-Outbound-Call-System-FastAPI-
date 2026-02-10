@@ -1,3 +1,7 @@
 curl -X POST http://localhost:8000/call \
 -H "Content-Type: application/json" \
 -d '{"phone_number":"+88013317xxx95"}'
+
+curl -X POST http://127.0.0.1:8000/call \
+-H "Content-Type: application/json" \
+-d '{"phone_number":"+447307277495"}'
